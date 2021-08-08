@@ -2,4 +2,4 @@ Omar D'yab
 
 chessboard game using numpy and matplotlib.
 
-PR:
+PR:https://github.com/Omardyab/chess-board/pull/1
